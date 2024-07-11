@@ -9,3 +9,7 @@ I have used *Thunkable platform* to make this app where I have coded the app (bl
 Check out this app - https://x.thunkable.com/projectPage/667800454c50947feed07ce8
 
 You can remix this app or look at the block code using the "edit project" option on the top left. 
+
+![Sign Up](https://github.com/user-attachments/assets/b487593a-bdcb-4f17-8694-8443dbf8d357)
+![Home Page](https://github.com/user-attachments/assets/5bd735bf-7781-42ee-910c-494c81736aed)
+
